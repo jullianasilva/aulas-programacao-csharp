@@ -33,6 +33,10 @@ Apontar...
 FOGO!
 ```
 
+Organizar....
+Preparar...
+Começar....
+
 Aguarde o pressionamento de uma tecla antes de cada transição.
 
 ---
@@ -61,6 +65,9 @@ Exiba seu nome enquadrado em uma caixa, como no exemplo abaixo.
 | Ermogenes |
 +-----------+
 ```
++__________+
+| Julliana |
++__________+
 
 ---
 
