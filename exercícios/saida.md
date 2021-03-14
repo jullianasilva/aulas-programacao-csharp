@@ -7,15 +7,23 @@ Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicaç
 
 Faça um programa que exiba o nome da sua escola: `Etec Adolpho Berezin`.
 
+-EtecABCPS-
 ---
 ## Exercício `OlaMundo`
 
 Faça um programa que exiba `Olá usuário, eu me chamo Ermogenes!` (utilize o seu nome).
-
+ 
+*Prazer usuário, eu me identifico por Julliana!
 ---
 ## Exercício `Cidades`
 
 Faça um programa que exiba os nomes das cidades do litoral sul de São Paulo, um em cada linha.
+
+_PG_
+_Mongagua_
+_Itanhaem_
+_SV_
+_Santos_
 
 ---
 ## Exercício `Musica`
@@ -26,6 +34,10 @@ Faça um programa que exiba uma letra de música a sua escolha. Utilize cores em
 ## Exercício `ContagemRegressiva`
 
 Faça um programa que exiba uma contagem regressiva no seguinte formato:
+
+Organizar....
+Preparar....
+Começar!
 
 ```
 Preparar...
@@ -61,6 +73,9 @@ Exiba seu nome enquadrado em uma caixa, como no exemplo abaixo.
 | Ermogenes |
 +-----------+
 ```
+**********
+|Julliana|
+**********
 
 ---
 
