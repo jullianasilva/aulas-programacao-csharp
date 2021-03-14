@@ -6,16 +6,24 @@ Para cada exercício abaixo crie um repositório no GitHub contendo uma aplicaç
 ## Exercício `OlaUsuario`
 
 Faça um programa solicite que o usuário digite seu nome. Exiba `Olá, ___!` (na lacuna `___` exiba o nome digitado).
+Olá, Julliana 
 
 ---
 ## Exercício `Gritador`
 
 Faça um programa repita exatamente que o usuário digitar, gritando (em CAIXA ALTA).
+JULLIANA, VENHA CÁ
 
 ---
 ## Exercício `NomeCompleto`
 
 Receba o nome e o sobrenome do usuário separadamente. Exiba o nome completo no formato padrão `Nome Sobrenome` e no formato de catálogo `SOBRENOME, Nome`.
+
+Digite seu primeiro nome: Julliana 
+Digite seu segundo nome: Silva 
+
+Nome completo: Julliana Silva
+Nome de catálogo: SILVA, Julliana 
 
 Exemplo:
 
@@ -38,6 +46,8 @@ _Lembre-se que o Cebolinha tem um disturbio na fala chamado dislalia, que o faz 
 
 Por exemplo, a frase `Eu troco as letras, não falo bem, mas meus amigos não troco por ninguém` será dita pelo Cebolinha como `Eu tloco as letlas, não falo bem, mas meus amigos não tloco pol ninguém`.
 
+
+Eu glosto muito dos meus amigos, adolo todos eles. 
 ---
 ## Exercício `CriancaEducada`
 
@@ -53,7 +63,8 @@ Me diga o que você pensa sobre o aluno que não faz a lição de casa: Eu acho 
 Eu sou uma criança educada. No seu lugar eu diria:
 Eu acho que é um #@$%*!&, e que vai ficar #@$%*!& pra sempre.
 ```
-
+Aquele menino idiota, nunca vai aprender nada seu boboca.
+Criança educada diria: Aquele menino #@$%*!&, nunca vai aprender nada seu #@$%*!&.
 ---
 ## Exercício `MemeToNervoso`
 
@@ -71,6 +82,8 @@ Para isso, mantenha somente os 10 primeiros caracteres (remova todos os caracter
 
 <img src="https://www.lance.com.br/uploads/2017/11/17/5a0ecbe764bad.jpeg" width="400">
 
+Você me chama uma pessoa ruim? Você é uma pessoa péssima!
+Você é mui..... Calma.\nEstou nervosa.
 ---
 ## Exercício `Leet`
 
@@ -93,7 +106,8 @@ Exemplo:
 Texto a ser traduzido...: Hackers usavam leet antes de virar modinha.
 TRADUZIDO: H4ck3r5 u54v4m 1337 4n735 d3 v1r4r m0d1nh4.
 ```
-
+Isso foi bem legal! 
+1550 F01 B3M L3G4L!
 ---
 
 ## 🏁 Orientações para entrega (alunos do curso presencial)
