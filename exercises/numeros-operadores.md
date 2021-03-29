@@ -15,7 +15,9 @@ Digite o segundo número: 40
 
 Soma: 70
 ```
-
+50 
+20 
+Somando: 70 
 ---
 ## Exercício `MilhasParaKm`
 
@@ -25,7 +27,8 @@ Receba uma medida em milhas e exiba seu equivalente em quilômetros. A medida em
 Entre com a medida (em milhas): 1
 1,609 Km
 ```
-
+10 milhas 
+16,0934 km 
 ---
 ## Exercício `Medidas`
 
@@ -39,6 +42,9 @@ Entre com a medida (em metros): 150
 150 m
 0,15 Km
 ```
+25000 cm
+250 m 
+0,25 km 
 
 ---
 ## Exercício `AreaTrianguloRet`
